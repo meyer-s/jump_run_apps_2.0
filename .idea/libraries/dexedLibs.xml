@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Thegot2run/bin/dexedLibs/android-support-v4-94a5a48ad0867995ce44dab19857afbe.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Thegot2run/bin/dexedLibs/android-support-v4-862377572b23ef2f43b3081e518e71f3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
